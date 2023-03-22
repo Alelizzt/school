@@ -1,7 +1,7 @@
-package com.alexlizzt.school.service;
+package com.alexlizzt.school.application.service;
 
-import com.alexlizzt.school.model.Student;
-import com.alexlizzt.school.repository.StudentRepository;
+import com.alexlizzt.school.domain.model.Student;
+import com.alexlizzt.school.domain.port.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

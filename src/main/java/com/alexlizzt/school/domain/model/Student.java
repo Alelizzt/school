@@ -1,4 +1,4 @@
-package com.alexlizzt.school.model;
+package com.alexlizzt.school.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

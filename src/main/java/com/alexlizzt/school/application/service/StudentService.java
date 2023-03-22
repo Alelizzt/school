@@ -1,6 +1,6 @@
-package com.alexlizzt.school.service;
+package com.alexlizzt.school.application.service;
 
-import com.alexlizzt.school.model.Student;
+import com.alexlizzt.school.domain.model.Student;
 
 import java.util.List;
 

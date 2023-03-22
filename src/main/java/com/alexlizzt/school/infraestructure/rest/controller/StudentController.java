@@ -1,7 +1,7 @@
-package com.alexlizzt.school.controller;
+package com.alexlizzt.school.infraestructure.rest.controller;
 
-import com.alexlizzt.school.model.Student;
-import com.alexlizzt.school.service.StudentService;
+import com.alexlizzt.school.domain.model.Student;
+import com.alexlizzt.school.application.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

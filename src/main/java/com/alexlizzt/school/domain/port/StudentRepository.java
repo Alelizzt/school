@@ -1,6 +1,6 @@
-package com.alexlizzt.school.repository;
+package com.alexlizzt.school.domain.port;
 
-import com.alexlizzt.school.model.Student;
+import com.alexlizzt.school.domain.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
